@@ -1,0 +1,27 @@
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\lesson_owin_host.exe.config
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\lesson_owin_host.exe
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\lesson_owin_host.pdb
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\Microsoft.Owin.dll
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\Microsoft.Owin.Hosting.dll
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\Newtonsoft.Json.dll
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\Owin.dll
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\System.Web.Http.dll
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\System.Web.Http.Owin.dll
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\Microsoft.Owin.xml
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\Microsoft.Owin.Hosting.xml
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\Newtonsoft.Json.xml
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\System.Web.Http.xml
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\System.Web.Http.Owin.xml
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\obj\Debug\lesson_owin_host.csprojResolveAssemblyReference.cache
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\obj\Debug\lesson_owin_host.exe
+c:\users\pcr-27929\documents\visual studio 2012\Projects\lesson_owin_host\lesson_owin_host\obj\Debug\lesson_owin_host.pdb
+C:\Users\wilson.falcao\Desktop\Meus Projetos\Main file\Visual Studio 2012\Projects\lesson_owin_host\lesson_owin_host\bin\Debug\lesson_owin_host.exe.config
+C:\Users\wilson.falcao\Desktop\Meus Projetos\Main file\Visual Studio 2012\Projects\lesson_owin_host\lesson_owin_host\obj\Debug\lesson_owin_host.exe
+C:\Users\wilson.falcao\Desktop\Meus Projetos\Main file\Visual Studio 2012\Projects\lesson_owin_host\lesson_owin_host\obj\Debug\lesson_owin_host.pdb
+C:\Users\wilson.falcao\Documents\GitHub\Projects-WC-Applicantion\lesson_owin_host\lesson_owin_host\bin\Debug\lesson_owin_host.exe.config
+C:\Users\wilson.falcao\Documents\GitHub\Projects-WC-Applicantion\lesson_owin_host\lesson_owin_host\obj\Debug\lesson_owin_host.exe
+C:\Users\wilson.falcao\Documents\GitHub\Projects-WC-Applicantion\lesson_owin_host\lesson_owin_host\obj\Debug\lesson_owin_host.pdb
